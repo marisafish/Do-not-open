@@ -8,6 +8,8 @@ do
   sleep 1
   zenity --warning --title="やめろ" --text="PCやりすぎ">/dev/null
   sleep 1
+  zenity --warning --title="ググれ" --text="ggrks">/dev/null
+  sleep 1
   zenity --info --title="カウントダウン" --text="3>/dev/null
   sleep 1
   zenity --info --title="カウントダウン" --text="2">/dev/null
